@@ -4,7 +4,7 @@ package sx_wuyj.queue.arrQueue;
  * @author sx_wuyj
  * @version 1.0.0
  * @ClassName ArrQueue.java
- * @Description 使用数组构造一个队列，也就是队列类
+ * @Description 使用数组模拟一个队列，也就是队列类
  * @createTime 2019年06月22日 21:12:00
  */
 public class ArrQueue {
@@ -39,7 +39,7 @@ public class ArrQueue {
      * 判断队列是否满
      */
     public boolean isFull(){
-        return rear == maxSize;
+        return rear == maxSize-1;
     }
 
     /**
@@ -57,7 +57,7 @@ public class ArrQueue {
         if (isFull()){
             throw new RuntimeException("队列已满");
         }
-        arr[rear] = data;
+        arr[++rear] = data;
     }
 
     /**
