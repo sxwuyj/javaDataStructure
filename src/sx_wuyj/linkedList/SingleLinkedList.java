@@ -4,7 +4,7 @@ package sx_wuyj.linkedList;
  * @author sx_wuyj
  * @version 1.0.0
  * @ClassName SingleLinkedList.java
- * @Description 定义链表
+ * @Description 单链表的增删改查
  * @createTime 2019年06月25日 20:34:00
  */
 public class SingleLinkedList {
@@ -61,10 +61,63 @@ public class SingleLinkedList {
         }
 
     }
+
+    /**
+     * 根据ID更新链表内容，不修改ID
+     */
+    public void update(Node newNode){
+        //先判断链表是否为空
+        if (head.next == null){
+            throw new RuntimeException("链表为空");
+        }
+        Node temp = head;
+        boolean flag = false;
+        while (true){
+            //遍历完
+            if (temp == null){
+                break;
+            }
+            //找到要修改的位置
+            if (temp.getId() == newNode.getId()){
+                flag = true;
+                break;
+            }
+            temp = temp.next;
+        }
+
+        if (flag){
+           temp.setName(newNode.getName());
+        }else {
+            throw new RuntimeException("未找到ID为"+newNode.getId());
+        }
+
+    }
+
+    /**
+     * 删除节点
+     */
+    public void del(Integer id){
+        Node temp = head;
+        boolean flag = false;
+        while (true){
+            if (temp == null){
+                break;
+            }else if (temp.next.getId() == id){
+                flag = true;
+                break;
+            }
+            temp = temp.next;
+        }
+        if (flag){
+            temp.next = temp.next.next;
+        }else {
+            throw new RuntimeException("未找到要删除的ID"+id);
+        }
+    }
+
     /**
      * 查看链表
      */
-
     public void list(){
         //判断链表是否为空
         if (head.next == null){

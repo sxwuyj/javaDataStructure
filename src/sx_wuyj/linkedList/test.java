@@ -13,6 +13,7 @@ public class test {
         Node node1 = new Node(1, "张三");
         Node node2 = new Node(2, "李四");
         Node node3 = new Node(3, "王五");
+        Node node4 = new Node(1, "zhao");
 
         SingleLinkedList single = new SingleLinkedList();
         /*single.add(node1);
@@ -22,7 +23,8 @@ public class test {
         single.addOrderBy(node1);
         single.addOrderBy(node3);
         single.addOrderBy(node2);
-
+        single.update(node4);
+        single.del(1);
         single.list();
     }
 }
