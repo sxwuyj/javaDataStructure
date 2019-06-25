@@ -1,4 +1,4 @@
-package sx_wuyj.queue.arrQueue;
+package sx_wuyj.queue;
 
 /**
  * @author sx_wuyj
