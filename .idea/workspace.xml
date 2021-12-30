@@ -2,50 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day03/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day03/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day04/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day04/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day05/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day05/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day06/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day06/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day07/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day07/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/ListNode01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day11/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day11/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sx_wuyj/linkedList/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sx_wuyj/linkedList/SingleLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sx_wuyj/linkedList/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sx_wuyj/queue/ArrQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sx_wuyj/queue/CircleArrQueue.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +50,9 @@
     <option name="height" value="733" />
   </component>
   <component name="ProjectId" id="230Uaa0Q4E5QWW9gybnZzXqiK5V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,6 +114,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wuyj.algorithm.day14" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.test">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -174,6 +141,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,8 +184,16 @@
       <workItem from="1561464851434" duration="2822000" />
       <workItem from="1561468618399" duration="3623000" />
       <workItem from="1640870563676" duration="86000" />
-      <workItem from="1640870663936" duration="1203000" />
+      <workItem from="1640870663936" duration="3401000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1640871921634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640871921634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -247,6 +235,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
