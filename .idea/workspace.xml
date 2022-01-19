@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FiyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Squeak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FiyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/FiyBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/FlyWithWings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/ModelDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/MuteQuack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/Quack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/QuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/duck/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wuyj/moudle/service/impl/Squeak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +145,7 @@
       <module name="javaDataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.duck.*" />
+          <option name="PATTERN" value="com.wuyj.moudle.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,7 +171,7 @@
       <module name="javaDataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.duck.*" />
+          <option name="PATTERN" value="com.wuyj.moudle.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,7 +257,7 @@
       <workItem from="1641261329118" duration="853000" />
       <workItem from="1641297146719" duration="7465000" />
       <workItem from="1641372874158" duration="4644000" />
-      <workItem from="1642516604522" duration="3513000" />
+      <workItem from="1642516604522" duration="4154000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641382445006</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="策略模式--鸭子">
+      <created>1642557816140</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642557816140</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -379,7 +386,8 @@
     <MESSAGE value="day18" />
     <MESSAGE value="day19" />
     <MESSAGE value="day20" />
-    <option name="LAST_COMMIT_MESSAGE" value="day20" />
+    <MESSAGE value="策略模式--鸭子" />
+    <option name="LAST_COMMIT_MESSAGE" value="策略模式--鸭子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

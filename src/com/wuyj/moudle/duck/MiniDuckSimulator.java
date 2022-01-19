@@ -1,6 +1,10 @@
 package com.wuyj.moudle.duck;
 
+import com.wuyj.moudle.service.impl.FlyRocketPowered;
+
 /**
+ * 测试类
+ *
  * @author wuyj
  * @date 2022/1/18 11:05 下午
  */
