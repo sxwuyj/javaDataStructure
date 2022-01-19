@@ -1,7 +1,7 @@
-package com.wuyj.moudle.duck;
+package com.wuyj.moudle.strategy.duck;
 
-import com.wuyj.moudle.service.FiyBehavior;
-import com.wuyj.moudle.service.QuackBehavior;
+import com.wuyj.moudle.strategy.service.FiyBehavior;
+import com.wuyj.moudle.strategy.service.QuackBehavior;
 
 /**
  *

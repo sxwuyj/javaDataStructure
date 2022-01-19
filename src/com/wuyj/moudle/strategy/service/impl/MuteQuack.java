@@ -1,6 +1,6 @@
-package com.wuyj.moudle.service.impl;
+package com.wuyj.moudle.strategy.service.impl;
 
-import com.wuyj.moudle.service.QuackBehavior;
+import com.wuyj.moudle.strategy.service.QuackBehavior;
 
 /**
  * 不会叫

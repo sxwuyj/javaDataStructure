@@ -1,4 +1,4 @@
-package com.wuyj.moudle.service;
+package com.wuyj.moudle.strategy.service;
 
 /**
  * 飞的接口,未来所有会飞的都可以实现这个接口,不单单是鸭子

@@ -1,7 +1,7 @@
-package com.wuyj.moudle.duck;
+package com.wuyj.moudle.strategy.duck;
 
-import com.wuyj.moudle.service.impl.FlyNoWay;
-import com.wuyj.moudle.service.impl.Quack;
+import com.wuyj.moudle.strategy.service.impl.FlyNoWay;
+import com.wuyj.moudle.strategy.service.impl.Quack;
 
 /**
  * 模型鸭子构造指定的实现类

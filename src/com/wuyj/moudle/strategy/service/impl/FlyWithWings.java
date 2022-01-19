@@ -1,6 +1,6 @@
-package com.wuyj.moudle.service.impl;
+package com.wuyj.moudle.strategy.service.impl;
 
-import com.wuyj.moudle.service.FiyBehavior;
+import com.wuyj.moudle.strategy.service.FiyBehavior;
 
 /**
  * 正常飞

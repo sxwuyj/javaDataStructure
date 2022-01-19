@@ -141,11 +141,11 @@
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.moudle.duck.MiniDuckSimulator" />
+      <option name="MAIN_CLASS_NAME" value="com.wuyj.moudle.strategy.duck.MiniDuckSimulator" />
       <module name="javaDataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.service.*" />
+          <option name="PATTERN" value="com.wuyj.moudle.strategy.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,7 +171,7 @@
       <module name="javaDataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.service.*" />
+          <option name="PATTERN" value="com.wuyj.moudle.strategy.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

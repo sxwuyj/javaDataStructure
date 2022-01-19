@@ -1,4 +1,4 @@
-package com.wuyj.moudle.service;
+package com.wuyj.moudle.strategy.service;
 
 /**
  *

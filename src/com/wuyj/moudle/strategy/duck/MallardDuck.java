@@ -1,7 +1,7 @@
-package com.wuyj.moudle.duck;
+package com.wuyj.moudle.strategy.duck;
 
-import com.wuyj.moudle.service.impl.FlyWithWings;
-import com.wuyj.moudle.service.impl.Quack;
+import com.wuyj.moudle.strategy.service.impl.FlyWithWings;
+import com.wuyj.moudle.strategy.service.impl.Quack;
 
 /**
  * 某种鸭子,通过构造指定具体的实现
