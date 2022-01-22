@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/ChicagoPizzaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYPizzaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStyleCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStylePepperpniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStyleVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/RemoteLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/StereoOffWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/StereoOnWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoorCloseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoorOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/RemoteControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/SimpleRemoteControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +137,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wuyj.modle.command.middle" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modle/src/com/wuyj" />
       <recent name="$PROJECT_DIR$/src/com/wuyj/modle/observer/jdk" />
@@ -137,24 +147,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wuyj.modle.command.middle" />
+      <recent name="com.wuyj.modle.command.simple" />
       <recent name="com.wuyj.algorithm.day16" />
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PizzaTestDrive">
-    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.moudle.strategy.duck.MiniDuckSimulator" />
-      <module name="javaDataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.strategy.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoteLoader">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.factory.PizzaTestDrive" />
       <module name="modle" />
@@ -168,12 +167,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.day20.Test01" />
-      <module name="javaDataStructure" />
+    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.command.simple.RemoteControlTest" />
+      <module name="modle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.day20.*" />
+          <option name="PATTERN" value="com.wuyj.modle.command.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.command.middle.RemoteLoader" />
+      <module name="modle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyj.modle.command.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.MiniDuckSimulator" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.PizzaTestDrive" />
+      <item itemvalue="Application.RemoteControlTest" />
+      <item itemvalue="Application.RemoteLoader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteLoader" />
+        <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.MiniDuckSimulator" />
-        <item itemvalue="Application.Test01" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +286,7 @@
       <workItem from="1641372874158" duration="4644000" />
       <workItem from="1642516604522" duration="5162000" />
       <workItem from="1642588827368" duration="11500000" />
-      <workItem from="1642854121556" duration="3573000" />
+      <workItem from="1642854121556" duration="8689000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -367,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642603862498</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="工厂方法">
+      <created>1642861142592</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642861142592</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -433,7 +452,8 @@
     <MESSAGE value="day20" />
     <MESSAGE value="策略模式--鸭子" />
     <MESSAGE value="观察者模式&amp;工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="观察者模式&amp;工厂模式" />
+    <MESSAGE value="工厂方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂方法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
