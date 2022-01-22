@@ -4,18 +4,21 @@ package com.wuyj.modle.factory;
  * @author wuyj
  * @date 2022/1/19 10:37 下午
  */
-public class PizzaShop {
-    private SimplePizzaFactory factory;
+public abstract class PizzaShop {
 
-    public PizzaShop(SimplePizzaFactory factory) {
-        this.factory = factory;
-    }
 
     Pizza orderPizza(String type){
-        Pizza pizza = factory.createPizza(type);
+        Pizza pizza = createPizza(type);
         pizza.prepare();
         pizza.bake();
         pizza.box();
         return pizza;
     }
+
+    /**
+     * 将创建披萨的方法抽象,由子类实现
+     * @param type
+     * @return
+     */
+    abstract Pizza createPizza(String type);
 }

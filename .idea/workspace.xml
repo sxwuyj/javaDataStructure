@@ -2,102 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/modle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/decorator/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/decorator/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/decorator/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/decorator/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/GreekPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/service/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/service/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/service/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/custom/service/impl/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/jdk/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/jdk/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/jdk/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/observer/jdk/WeatherStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/ChicagoPizzaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYPizzaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStylePepperpniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/NYStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day01/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day01/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day01/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day01/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day02/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day02/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day02/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day02/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day03/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day03/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day03/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day03/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day04/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day04/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day04/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day04/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day05/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day05/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day05/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day05/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day06/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day06/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day06/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day06/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day07/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day07/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day07/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day07/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day08/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day08/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day08/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day08/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day09/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/ListNode01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day09/ListNode01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day09/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day09/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day09/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day09/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day10/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day10/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day10/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day10/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day11/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day11/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day11/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day11/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day12/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day12/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day12/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day12/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day12/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day13/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day13/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day13/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day13/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day13/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day14/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day14/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day14/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day14/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day15/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day15/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day15/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day15/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day15/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day15/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day16/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day16/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day16/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day16/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day16/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day16/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day16/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day16/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day17/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day17/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day17/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day17/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day17/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day17/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day18/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day18/MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day18/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day18/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day18/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day18/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day19/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day19/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day19/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day19/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day19/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day19/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day20/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day20/Test01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/algorithm/day20/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/day20/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/duck/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/duck/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/duck/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/duck/MiniDuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/duck/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/FiyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/FiyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/FlyRocketPowered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wuyj/moudle/strategy/service/impl/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/strategy/service/impl/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/factory/PizzaShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,13 +141,26 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation (1)">
+  <component name="RunManager" selected="Application.PizzaTestDrive">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wuyj.moudle.strategy.duck.MiniDuckSimulator" />
       <module name="javaDataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wuyj.moudle.strategy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.factory.PizzaTestDrive" />
+      <module name="modle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyj.modle.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,19 +194,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.day19.Test02" />
-      <module name="javaDataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.day19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.observer.jdk.WeatherStation" />
       <module name="javaDataStructure" />
@@ -305,33 +220,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test02" />
       <item itemvalue="Application.Test01" />
       <item itemvalue="Application.MiniDuckSimulator" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.WeatherStation (1)" />
+      <item itemvalue="Application.PizzaTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
         <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test02" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +273,8 @@
       <workItem from="1641297146719" duration="7465000" />
       <workItem from="1641372874158" duration="4644000" />
       <workItem from="1642516604522" duration="5162000" />
-      <workItem from="1642588827368" duration="10460000" />
+      <workItem from="1642588827368" duration="11500000" />
+      <workItem from="1642854121556" duration="3573000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -446,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642558810528</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="观察者模式&amp;工厂模式">
+      <created>1642603862498</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642603862498</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -511,7 +432,8 @@
     <MESSAGE value="day19" />
     <MESSAGE value="day20" />
     <MESSAGE value="策略模式--鸭子" />
-    <option name="LAST_COMMIT_MESSAGE" value="策略模式--鸭子" />
+    <MESSAGE value="观察者模式&amp;工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="观察者模式&amp;工厂模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
