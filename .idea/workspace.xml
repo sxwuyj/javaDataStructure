@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/StereoOffWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/middle/StereoOnWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoorCloseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/command/simple/SimpleRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/CaffeineBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -131,7 +122,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16308594" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -286,7 +277,7 @@
       <workItem from="1641372874158" duration="4644000" />
       <workItem from="1642516604522" duration="5162000" />
       <workItem from="1642588827368" duration="11500000" />
-      <workItem from="1642854121556" duration="8689000" />
+      <workItem from="1642854121556" duration="14051000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -386,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642861142592</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="命令模式">
+      <created>1642866755989</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642866755989</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -453,7 +451,8 @@
     <MESSAGE value="策略模式--鸭子" />
     <MESSAGE value="观察者模式&amp;工厂模式" />
     <MESSAGE value="工厂方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="工厂方法" />
+    <MESSAGE value="命令模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="命令模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
