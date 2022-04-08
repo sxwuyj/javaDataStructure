@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/adapter/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/CaffeineBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modle/src/com/wuyj/modle/template/Tea.java" afterDir="false" />
+    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="继续刷题,4月第一天">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +140,7 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoteLoader">
+  <component name="RunManager" selected="Application.Test03">
     <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.factory.PizzaTestDrive" />
       <module name="modle" />
@@ -184,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.moudle.day01.Test01" />
-      <module name="javaDataStructure" />
+    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.april.day01.Test01" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.moudle.strategy.service.*" />
+          <option name="PATTERN" value="algorithm.april.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,25 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.observer.jdk.WeatherStation" />
-      <module name="javaDataStructure" />
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.april.day01.Test03" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wuyj.modle.observer.jdk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.observer.custom.WeatherStation" />
-      <module name="javaDataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wuyj.modle.observer.custom.*" />
+          <option name="PATTERN" value="algorithm.april.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation" />
-      <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.PizzaTestDrive" />
       <item itemvalue="Application.RemoteControlTest" />
       <item itemvalue="Application.RemoteLoader" />
+      <item itemvalue="Application.Test01 (1)" />
+      <item itemvalue="Application.Test03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test03" />
+        <item itemvalue="Application.Test01 (1)" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.PizzaTestDrive" />
-        <item itemvalue="Application.WeatherStation (1)" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +260,9 @@
       <workItem from="1641372874158" duration="4644000" />
       <workItem from="1642516604522" duration="5162000" />
       <workItem from="1642588827368" duration="11500000" />
-      <workItem from="1642854121556" duration="14051000" />
+      <workItem from="1642854121556" duration="14086000" />
+      <workItem from="1649292191280" duration="3360000" />
+      <workItem from="1649336933990" duration="4574000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -384,7 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642866755989</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="适配器模式&amp;模板模式">
+      <created>1642945733362</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642945733362</updated>
+    </task>
+    <task id="LOCAL-00017" summary="继续刷题,4月第一天">
+      <created>1649295275074</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1649295275074</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -452,7 +451,9 @@
     <MESSAGE value="观察者模式&amp;工厂模式" />
     <MESSAGE value="工厂方法" />
     <MESSAGE value="命令模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="命令模式" />
+    <MESSAGE value="适配器模式&amp;模板模式" />
+    <MESSAGE value="继续刷题,4月第一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="继续刷题,4月第一天" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
