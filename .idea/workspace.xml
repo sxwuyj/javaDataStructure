@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="继续刷题,4月第一天">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test03.java" afterDir="false" />
+    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day02/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day01/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,13 +204,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,7 +262,8 @@
       <workItem from="1642588827368" duration="11500000" />
       <workItem from="1642854121556" duration="14086000" />
       <workItem from="1649292191280" duration="3360000" />
-      <workItem from="1649336933990" duration="4574000" />
+      <workItem from="1649336933990" duration="5190000" />
+      <workItem from="1649423611222" duration="1971000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -383,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649295275074</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="继续刷题,4月第一天">
+      <created>1649383181832</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649383181832</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
