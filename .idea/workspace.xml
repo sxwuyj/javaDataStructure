@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day03/Tes01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day04/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day04/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,20 +138,7 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test02">
-    <configuration name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wuyj.modle.command.middle.RemoteLoader" />
-      <module name="modle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wuyj.modle.command.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test02 (1)">
     <configuration name="Tes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.april.day03.Tes01" />
       <module name="algorithm" />
@@ -171,6 +158,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.april.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.april.day04.Test02" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.april.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,33 +204,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoteLoader" />
       <item itemvalue="Application.Test01 (1)" />
       <item itemvalue="Application.Test03" />
       <item itemvalue="Application.Tes01" />
       <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.Test02 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test02 (1)" />
         <item itemvalue="Application.Test02" />
         <item itemvalue="Application.Tes01" />
         <item itemvalue="Application.Test03" />
         <item itemvalue="Application.Test01 (1)" />
-        <item itemvalue="Application.RemoteLoader" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +261,8 @@
       <workItem from="1642854121556" duration="14086000" />
       <workItem from="1649292191280" duration="3360000" />
       <workItem from="1649336933990" duration="5190000" />
-      <workItem from="1649423611222" duration="8543000" />
+      <workItem from="1649423611222" duration="8675000" />
+      <workItem from="1649598207869" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -398,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649425889927</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="4月第三天">
+      <created>1649509981348</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649509981348</updated>
+    </task>
+    <task id="LOCAL-00021" summary="4月第三天">
+      <created>1649510057854</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649510057854</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -469,7 +482,8 @@
     <MESSAGE value="适配器模式&amp;模板模式" />
     <MESSAGE value="继续刷题,4月第一天" />
     <MESSAGE value="4月第二天" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月第二天" />
+    <MESSAGE value="4月第三天" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月第三天" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
