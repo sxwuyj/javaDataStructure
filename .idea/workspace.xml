@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day06/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day06/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day07/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/april/day07/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/algorithm/entity/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,6 +133,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.entity" />
       <recent name="com.wuyj.modle.command.middle" />
       <recent name="com.wuyj.modle.command.simple" />
       <recent name="com.wuyj.algorithm.day16" />
@@ -204,13 +206,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -264,7 +268,8 @@
       <workItem from="1649423611222" duration="8675000" />
       <workItem from="1649598207869" duration="2144000" />
       <workItem from="1649687785524" duration="3136000" />
-      <workItem from="1649772992075" duration="2537000" />
+      <workItem from="1649772992075" duration="3260000" />
+      <workItem from="1649859964130" duration="1629000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -427,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649690697863</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="4月第六天">
+      <created>1649775744388</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775744388</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -501,7 +513,8 @@
     <MESSAGE value="4月第三天" />
     <MESSAGE value="4月第四天" />
     <MESSAGE value="4月第五天" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月第五天" />
+    <MESSAGE value="4月第六天" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月第六天" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
