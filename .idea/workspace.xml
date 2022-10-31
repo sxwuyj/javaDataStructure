@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="" />
+    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/zuo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/entity/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/entity/ListNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +113,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561473264217" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modle/src/com/wuyj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -135,13 +143,39 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01">
-    <configuration name="Tes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.april.day03.Tes01" />
-      <module name="algorithm" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day01.BubbleSort" />
+      <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.april.day03.*" />
+          <option name="PATTERN" value="tixi.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day01.InsertSort" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day01.SelectSort" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,32 +209,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.april.day03.Test02" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.april.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.april.day01.Test03" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.april.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -215,19 +223,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test03" />
-      <item itemvalue="Application.Tes01" />
-      <item itemvalue="Application.Test02" />
       <item itemvalue="Application.Test02 (1)" />
       <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.SelectSort" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Test02 (1)" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Tes01" />
-        <item itemvalue="Application.Test03" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +272,9 @@
       <workItem from="1649598207869" duration="2144000" />
       <workItem from="1649687785524" duration="3136000" />
       <workItem from="1649772992075" duration="3260000" />
-      <workItem from="1649859964130" duration="1946000" />
+      <workItem from="1649859964130" duration="3212000" />
+      <workItem from="1650621924313" duration="698000" />
+      <workItem from="1667225514773" duration="4978000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -441,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649861633162</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="4月第七天">
+      <created>1649861929823</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649861929823</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

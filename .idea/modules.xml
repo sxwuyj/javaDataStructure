@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaDataStructure.iml" filepath="$PROJECT_DIR$/.idea/javaDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/modle/modle.iml" filepath="$PROJECT_DIR$/modle/modle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuo/zuo.iml" filepath="$PROJECT_DIR$/zuo/zuo.iml" />
     </modules>
   </component>
 </project>

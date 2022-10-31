@@ -19,4 +19,11 @@ public class ListNode {
         this.val = val;
         this.next = next;
     }
+
+    public static void main(String[] args) {
+        String url = "http://futuresopenapi.wuyj.top";
+        if( (!url.startsWith("http") || !url.startsWith("https"))){
+            url = "http://" + url;
+        }
+    }
 }
