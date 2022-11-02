@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/zuo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day02/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day03/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day03/Test04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/algorithm/entity/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/algorithm/entity/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,52 +146,13 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day01.BubbleSort" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day01.InsertSort" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day01.SelectSort" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test04">
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.april.day06.Test01" />
-      <module name="algorithm" />
+      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test01" />
+      <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.april.day06.*" />
+          <option name="PATTERN" value="tixi.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +161,11 @@
       </method>
     </configuration>
     <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.april.day04.Test02" />
-      <module name="algorithm" />
+      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test02" />
+      <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.april.day04.*" />
+          <option name="PATTERN" value="tixi.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,33 +173,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day02.Test02" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test03" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test04" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test02 (1)" />
+      <item itemvalue="Application.Test02" />
       <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.SelectSort" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.Test02 (1)" />
+      <item itemvalue="Application.Test03" />
+      <item itemvalue="Application.Test04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test04" />
+        <item itemvalue="Application.Test03" />
         <item itemvalue="Application.Test02 (1)" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test02" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +275,10 @@
       <workItem from="1649772992075" duration="3260000" />
       <workItem from="1649859964130" duration="3212000" />
       <workItem from="1650621924313" duration="698000" />
-      <workItem from="1667225514773" duration="4978000" />
+      <workItem from="1667225514773" duration="5780000" />
+      <workItem from="1667312944644" duration="2313000" />
+      <workItem from="1667397786011" duration="6000" />
+      <workItem from="1667397880160" duration="4213000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -458,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649861929823</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="继续刷题">
+      <created>1667232294502</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1667232294502</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -534,7 +545,8 @@
     <MESSAGE value="4月第五天" />
     <MESSAGE value="4月第六天" />
     <MESSAGE value="4月第七天" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月第七天" />
+    <MESSAGE value="继续刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="继续刷题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
