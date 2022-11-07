@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day04/RemoveNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day04/ReverseNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/MyTwoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day05/GetMinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +278,9 @@
       <workItem from="1667312944644" duration="2313000" />
       <workItem from="1667397786011" duration="6000" />
       <workItem from="1667397880160" duration="4485000" />
-      <workItem from="1667483043745" duration="2734000" />
+      <workItem from="1667483043745" duration="2751000" />
+      <workItem from="1667831048119" duration="624000" />
+      <workItem from="1667832066595" duration="2386000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -476,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667402640445</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="继续刷题">
+      <created>1667489670641</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667489670641</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
