@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/MyTwoQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day05/GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day06/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day06/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,15 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -280,7 +277,11 @@
       <workItem from="1667397880160" duration="4485000" />
       <workItem from="1667483043745" duration="2751000" />
       <workItem from="1667831048119" duration="624000" />
-      <workItem from="1667832066595" duration="2386000" />
+      <workItem from="1667832066595" duration="3128000" />
+      <workItem from="1667910649993" duration="674000" />
+      <workItem from="1668088026768" duration="599000" />
+      <workItem from="1668132671749" duration="6000" />
+      <workItem from="1668436075592" duration="3628000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -485,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667489670641</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="继续刷题">
+      <created>1667835308532</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1667835308532</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
