@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day06/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day06/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrentcy/Concurrentcy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrentcy/src/lock/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day07/SmallSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day07/SmallSum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuo/src/tixi/day02/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuo/src/tixi/day02/Test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +133,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16308594" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -142,65 +153,65 @@
       <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test04">
+  <component name="RunManager" selected="Application.SmallSum1">
+    <configuration name="SelectSort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day01.SelectSort01" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day01.SelectSort02" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day07.SmallSum" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day07.SmallSum1" />
+      <module name="zuo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tixi.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test01" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test02" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day02.Test02" />
+      <option name="MAIN_CLASS_NAME" value="tixi.day02.Test01" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tixi.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test03" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day03.Test04" />
-      <module name="zuo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tixi.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,19 +231,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.SelectSort01" />
+      <item itemvalue="Application.SelectSort02" />
       <item itemvalue="Application.Test01" />
-      <item itemvalue="Application.Test02 (1)" />
-      <item itemvalue="Application.Test03" />
-      <item itemvalue="Application.Test04" />
+      <item itemvalue="Application.SmallSum" />
+      <item itemvalue="Application.SmallSum1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test04" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test02 (1)" />
+        <item itemvalue="Application.SmallSum1" />
+        <item itemvalue="Application.SmallSum" />
         <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.SelectSort02" />
+        <item itemvalue="Application.SelectSort01" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +292,11 @@
       <workItem from="1667910649993" duration="674000" />
       <workItem from="1668088026768" duration="599000" />
       <workItem from="1668132671749" duration="6000" />
-      <workItem from="1668436075592" duration="3628000" />
+      <workItem from="1668436075592" duration="3815000" />
+      <workItem from="1668522702321" duration="1327000" />
+      <workItem from="1669214889652" duration="4345000" />
+      <workItem from="1669300056074" duration="1509000" />
+      <workItem from="1669449743996" duration="7241000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -493,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667835308532</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="算法学习">
+      <created>1668441818478</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668441818478</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -570,7 +592,8 @@
     <MESSAGE value="4月第六天" />
     <MESSAGE value="4月第七天" />
     <MESSAGE value="继续刷题" />
-    <option name="LAST_COMMIT_MESSAGE" value="继续刷题" />
+    <MESSAGE value="算法学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -579,6 +602,11 @@
           <url>file://$PROJECT_DIR$/src/sx_wuyj/linkedList/SingleLinkedList.java</url>
           <line>100</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zuo/src/tixi/day07/SmallSum1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
