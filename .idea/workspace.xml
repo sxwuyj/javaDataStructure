@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrentcy/Concurrentcy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrentcy/src/lock/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/BubbleSort02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/InsertSort02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day01/SelectSort02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day07/SmallSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day07/SmallSum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day08/BiggerThanRightTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day08/PartitionAndQuickSort01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day08/PartitionAndQuickSort02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuo/src/tixi/day02/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuo/src/tixi/day02/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +109,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -134,6 +127,9 @@
     <property name="project.structure.proportion" value="0.16308594" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -219,13 +215,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -296,7 +294,8 @@
       <workItem from="1668522702321" duration="1327000" />
       <workItem from="1669214889652" duration="4345000" />
       <workItem from="1669300056074" duration="1509000" />
-      <workItem from="1669449743996" duration="7241000" />
+      <workItem from="1669449743996" duration="7377000" />
+      <workItem from="1669645495567" duration="3988000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -515,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668441818478</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="算法复习&amp;小和问题">
+      <created>1669563471119</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669563471119</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -593,7 +599,8 @@
     <MESSAGE value="4月第七天" />
     <MESSAGE value="继续刷题" />
     <MESSAGE value="算法学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法学习" />
+    <MESSAGE value="算法复习&amp;小和问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法复习&amp;小和问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
