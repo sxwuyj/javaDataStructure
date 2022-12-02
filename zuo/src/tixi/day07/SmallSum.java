@@ -3,6 +3,8 @@ package tixi.day07;
 /**
  * @author wuyj
  * @date 2022/11/27 22:56
+ *
+ * 小和问题
  */
 public class SmallSum {
 
