@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day13/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day13/RadixSort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day13/RadixSort02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day13/TireTree.java" afterDir="false" />
+    <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="基数排序">
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day14/IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day14/IsPalindromeList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day14/IsPalindromeList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day14/IsPalindromeList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day14/LinkedListMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day15/SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day15/SmallerEqualBigger1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuo/src/tixi/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuo/src/tixi/common/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,20 +146,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tixi.day14" />
       <recent name="algorithm.entity" />
       <recent name="com.wuyj.modle.command.middle" />
       <recent name="com.wuyj.modle.command.simple" />
       <recent name="com.wuyj.algorithm.day16" />
-      <recent name="com.wuyj.algorithm.day14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RadixSort02">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day10.HeapSort" />
+  <component name="RunManager" selected="Application.SmallerEqualBigger1">
+    <configuration name="IsPalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day14.IsPalindromeList" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.day10.*" />
+          <option name="PATTERN" value="tixi.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day10.HeapSort01" />
+    <configuration name="IsPalindromeList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day14.IsPalindromeList2" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.day10.*" />
+          <option name="PATTERN" value="tixi.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day10.HeapSort02" />
+    <configuration name="IsPalindromeList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day14.IsPalindromeList3" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.day10.*" />
+          <option name="PATTERN" value="tixi.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day13.RadixSort01" />
+    <configuration name="SmallerEqualBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day15.SmallerEqualBigger" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.day13.*" />
+          <option name="PATTERN" value="tixi.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tixi.day13.RadixSort02" />
+    <configuration name="SmallerEqualBigger1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tixi.day15.SmallerEqualBigger1" />
       <module name="zuo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tixi.day13.*" />
+          <option name="PATTERN" value="tixi.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,33 +219,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.HeapSort01" />
-      <item itemvalue="Application.HeapSort02" />
-      <item itemvalue="Application.RadixSort01" />
-      <item itemvalue="Application.RadixSort02" />
+      <item itemvalue="Application.IsPalindromeList" />
+      <item itemvalue="Application.IsPalindromeList2" />
+      <item itemvalue="Application.IsPalindromeList3" />
+      <item itemvalue="Application.SmallerEqualBigger" />
+      <item itemvalue="Application.SmallerEqualBigger1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RadixSort02" />
-        <item itemvalue="Application.RadixSort01" />
-        <item itemvalue="Application.HeapSort02" />
-        <item itemvalue="Application.HeapSort01" />
-        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.SmallerEqualBigger1" />
+        <item itemvalue="Application.SmallerEqualBigger" />
+        <item itemvalue="Application.IsPalindromeList3" />
+        <item itemvalue="Application.IsPalindromeList2" />
+        <item itemvalue="Application.IsPalindromeList" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +305,8 @@
       <workItem from="1670246894177" duration="1589000" />
       <workItem from="1671537821501" duration="1881000" />
       <workItem from="1671544860256" duration="3858000" />
-      <workItem from="1671715340385" duration="4389000" />
+      <workItem from="1671715340385" duration="6031000" />
+      <workItem from="1671799249735" duration="12830000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -557,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671547154043</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="基数排序">
+      <created>1671721546956</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1671721546956</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -613,7 +623,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day15" />
     <MESSAGE value="day16" />
     <MESSAGE value="day17" />
     <MESSAGE value="day18" />
@@ -638,7 +647,8 @@
     <MESSAGE value="堆排序" />
     <MESSAGE value="手写加强堆" />
     <MESSAGE value="前缀树" />
-    <option name="LAST_COMMIT_MESSAGE" value="前缀树" />
+    <MESSAGE value="基数排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="基数排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,8 +663,19 @@
           <line>33</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zuo/src/tixi/day15/SmallerEqualBigger.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="tixi.common.Node" memberName="next" />
+        <PinnedItemInfo parentTag="tixi.common.Node" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sx_wuyj/queue/arrQueue/ArrQueueDemo.java" />
