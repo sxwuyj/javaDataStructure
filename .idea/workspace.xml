@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4338ae98-8d5a-48f3-ae64-9811021936b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/common/TwoTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day17/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day18/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuo/src/tixi/day18/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,15 +213,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -306,7 +304,9 @@
       <workItem from="1672063478274" duration="1202000" />
       <workItem from="1672106788037" duration="5000" />
       <workItem from="1672155384390" duration="1959000" />
-      <workItem from="1672239352184" duration="579000" />
+      <workItem from="1672239352184" duration="783000" />
+      <workItem from="1672283620568" duration="396000" />
+      <workItem from="1679318547289" duration="2308000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640871921634</created>
@@ -581,7 +581,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672157233952</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="二叉树">
+      <created>1672240130550</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1672240130550</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -637,7 +644,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day18" />
     <MESSAGE value="day19" />
     <MESSAGE value="day20" />
     <MESSAGE value="策略模式--鸭子" />
@@ -662,7 +668,8 @@
     <MESSAGE value="基数排序" />
     <MESSAGE value="联表练习" />
     <MESSAGE value="链表练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表练习" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
